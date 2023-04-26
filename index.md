@@ -1,5 +1,5 @@
-# Welcome
-I am James Pyle, though I usually go by JP.
+
+I am James CB Pyle, though I usually go by JP.
 
 # About me
 I completed my 4 year Masters in Computer Science (MCOMP) at the [University of Sheffield](https://www.sheffield.ac.uk) in 2017 achieving a first-class degree and then began a PhD in the [Visual Computing](https://www.sheffield.ac.uk/dcs/research/groups/visual-computing) research group. I am currently (as of 26/04/2023) writing up my thesis with working title: 'Efficient Knowledge Discovery in Agent Based Simulation Experiments'.
