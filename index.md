@@ -2,7 +2,7 @@
 I am James Pyle, though I usually go by JP.
 
 # About me
-I completed my 4 year Masters in Computer Science (MCOMP) at the [https://www.sheffield.ac.uk](University of Sheffield) in 2017 achieving a first-class degree and then began a PhD in the [https://www.sheffield.ac.uk/dcs/research/groups/visual-computing](Visual Computing) research group. I am currently (as of 26/04/2023) writing up my thesis with working title: 'Efficient Knowledge Discovery in Agent Based Simulation Experiments'.
+I completed my 4 year Masters in Computer Science (MCOMP) at the [University of Sheffield](https://www.sheffield.ac.uk) in 2017 achieving a first-class degree and then began a PhD in the [Visual Computing](https://www.sheffield.ac.uk/dcs/research/groups/visual-computing) research group. I am currently (as of 26/04/2023) writing up my thesis with working title: 'Efficient Knowledge Discovery in Agent Based Simulation Experiments'.
 
 My research focuses on applying machine learning techniques to various parts of the experimental process in order to increase overall experiment efficiency. Researchers from any field with any level of coding proficiency can follow the provided methodology and simulation experiment description tool to create a reproducible simulation experiment script. The generated script uses knowledge of available hardware resources, and interim results obtained during the experiment, to efficiently delegate these resources and reduce overall experiment times, increasing the possible search space of the experiment and thereby the likelihood of discovering high quality results.
 
@@ -10,9 +10,9 @@ This research project required me to develop a range of skills in various resear
 
 # Skills
 
-**Learning the basics of new ideas, tools, frameworks and workflows** - My research originated as an extension of the [https://github.com/FLAMEGPU](FLAMEGPU) (now [https://github.com/FLAMEGPU/FLAMEGPU2](FLAMEGPU2)) framework for agent based models. This required me to quickly learn and adapt to the custom templating and generation environment in order to extend them to include my own work.
+**Learning the basics of new ideas, tools, frameworks and workflows** - My research originated as an extension of the [FLAMEGPU](https://github.com/FLAMEGPU) (now [FLAMEGPU2](https://github.com/FLAMEGPU/FLAMEGPU2)) framework for agent based models. This required me to quickly learn and adapt to the custom templating and generation environment in order to extend them to include my own work.
 
-**Communication between colleagues** - I regularly took part in design and update meetings for the technical development of FLAMEGPU as well as attending research conferences and talks hosted at the university by professionals from a wide range of fields. Additionally I am providing modelling consultation for a research project helmed by the [https://www.sheffield.ac.uk/dcs/research/groups/verification](Verification) and [https://www.sheffield.ac.uk/dcs/research/groups/testing](Testing) research groups.
+**Communication between colleagues** - I regularly took part in design and update meetings for the technical development of FLAMEGPU as well as attending research conferences and talks hosted at the university by professionals from a wide range of fields. Additionally I am providing modelling consultation for a research project helmed by the [Verification](https://www.sheffield.ac.uk/dcs/research/groups/verification) and [Testing](https://www.sheffield.ac.uk/dcs/research/groups/testing) research groups.
 
 **Communication with other audiences** - I regularly interact with close friends who are in the professionals in computer science related fields as well as researchers from other research groups and faculties. I also have some experience in presenting and explaining my research to the general public. 
 
