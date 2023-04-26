@@ -24,26 +24,44 @@ This research project required me to develop a range of skills in various resear
 
 ## Technical
 GPU programming
+
 Genetic Algorithms and other heuristic methods (simulated annealing, particle swarm optimisation)
+
 Machine learning models for prediction and data analysis of large, complex data sets with potentially large sections of limited or unrepresentative data.
+
 Automation of tasks via templating.
+
 Analysis of complex systems with a focus on how to evaluate the relationships between model and output data in order to guide knowledge discovery.
-Statistical analysis and comparison of experiment data sets to: analyse efficiency, determine relationships, evaluate quality of discoveries, ensure reproducibility
+
+Statistical analysis and comparison of experiment data sets to: analyse efficiency, determine relationships, evaluate quality of discoveries, ensure reproducibility.
+
 Version control and team based coding projects using various Git implementations.
+
+Website design and upkeep for both front and back-end. This includes server and database configuration, design and maintenance.
 
 ## Languages
 ### Proficient
 C/CUDA
+
 Python
+
 Java
+
 Javascript (Node, CoffeeScript)
+
 LaTeX
 
 ### Some Experience
 Javascript (Angular, React)
+
 C++
+
 C#
+
 Rails
+
 R
+
 Scala
+
 Haskell
