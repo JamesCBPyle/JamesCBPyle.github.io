@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: James Pyle
 description:  CV and Personal Information
 logo: /assets/img/jamescbpyle.JPG
+cv: /assets/files/CV.pdf
+show-downloads: true
