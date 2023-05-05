@@ -3,4 +3,6 @@ title: James Pyle
 description:  CV and Personal Bio
 logo: /assets/img/jamescbpyle.JPG
 cv: /assets/files/CV.pdf
+projects_url: /pages/projects.md
+personal_url: /pages/personal.md
 show_downloads: true
