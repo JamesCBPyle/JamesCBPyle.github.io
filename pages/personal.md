@@ -1,3 +1,7 @@
+---
+layout: default
+--
+
 Outside of work I enjoy a wide range of hobbies which I try to make time for. 
 
 Even though I haven't been able to engage with these as much as I would like in recent years due to ME/CFS I still ensure they don't fall completely by the wayside.
