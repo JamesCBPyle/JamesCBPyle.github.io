@@ -1,6 +1,6 @@
 ---
 layout: default
---
+---
 
 Outside of work I enjoy a wide range of hobbies which I try to make time for. 
 
